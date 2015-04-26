@@ -1,0 +1,1 @@
+# wxMp3CoverAdder
